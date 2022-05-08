@@ -1,6 +1,7 @@
 ### Olá, sou o João Victor Felício, iniciante na área de programação, se deseja compartilhar conhecimento ou fazer amizade, embarque nessa comigo! 👋
 ![Felicio GitHub stats](https://github-readme-stats.vercel.app/api?username=JVFelicio&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVFelicio&langs_count=8&theme=tokyonight)](https://github.com/JVFElicio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veronez1&layout=compact&langs_count=7&theme=dracula)](https://github.com/JVFElicio/github-readme-stats)
+
 
 ## O que estou estudando e meus objetivos ! 📚
 
